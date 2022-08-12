@@ -1,6 +1,6 @@
 {
   "name": "@tanreesego/hyper-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modification from https://github.com/mikemcbride/hyper-website-theme",
   "main": "index.js",
   "keywords": [
