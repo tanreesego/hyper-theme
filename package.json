@@ -1,5 +1,5 @@
 {
-  "name": "hyper-theme",
+  "name": "@tanreesego/hyper-theme",
   "version": "1.0.0",
   "description": "A modification from https://github.com/mikemcbride/hyper-website-theme",
   "main": "index.js",
@@ -15,5 +15,12 @@
     "url": "git+https://github.com/tanreesego/hyper-theme.git"
   },
   "author": "tanreesego",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanreesego/hyper-theme/issues"
+  },
+  "homepage": "https://github.com/tanreesego/hyper-theme#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
