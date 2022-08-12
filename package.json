@@ -1,0 +1,19 @@
+{
+  "name": "hyper-theme",
+  "version": "1.0.0",
+  "description": "A modification from https://github.com/mikemcbride/hyper-website-theme",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanreesego/hyper-theme.git"
+  },
+  "author": "tanreesego",
+  "license": "ISC"
+}
